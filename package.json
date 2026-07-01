@@ -2,7 +2,7 @@
   "name": "smart-bi",
   "version": "1.0.0",
   "private": true,
-  "description": "Smart BI 数据仪表盘 - 大模型工程能力测试靶场",
+  "description": "Smart BI 数据仪表盘",
   "workspaces": [
     "frontend",
     "mock-server"

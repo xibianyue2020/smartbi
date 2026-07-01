@@ -1,6 +1,6 @@
 # Smart BI 数据仪表盘
 
-这是一个用于"大模型工程能力测试"的靶场项目,主题是 Smart BI 数据仪表盘,包含 React (Vite) 前端和一个 Node.js/Express Mock 接口服务。
+Smart BI 数据仪表盘项目,包含 React (Vite) 前端和一个 Node.js/Express Mock 接口服务。
 
 ## 目录结构
 

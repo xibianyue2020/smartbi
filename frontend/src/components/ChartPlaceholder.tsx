@@ -4,7 +4,6 @@ interface Props {
   chart: ChartData;
 }
 
-// 故意保留为占位组件,实际可在此处接入 ECharts/Recharts
 function ChartPlaceholder({ chart }: Props) {
   return (
     <div className="section">
